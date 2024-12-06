@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hash Checker
 
 A Python script to calculate the hash (SHA256) of a file to verify its integrity. This project demonstrates the use of hashing techniques commonly used in cybersecurity to check if a file has been modified.
@@ -23,3 +24,7 @@ This script is part of a personal project created to showcase basic application 
 
 License
 This project is open-source and available under the MIT License.
+=======
+# Application-Security-Tool
+A beginner-friendly tool to identify basic application vulnerabilities.
+>>>>>>> 2370592c1e2b0a3a7c4b828007404ae28cad0c71
