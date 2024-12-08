@@ -12,6 +12,7 @@ A beginner-friendly Python tool designed for basic application security tasks, f
    ```bash  
    python hash_checker.py  
 3. **Provide the file path when prompted. Example output:**
+ ```bash
 Enter file path: C:\path\to\file.txt  
 SHA256 Hash: d2a5f2f59f...  
 
