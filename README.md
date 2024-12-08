@@ -11,13 +11,14 @@ A beginner-friendly Python tool designed for basic application security tasks, f
 2. **Run the script in a terminal:**  
    ```bash  
    python hash_checker.py  
-Provide the file path when prompted. Example output:
+3.  **Provide the file path when prompted **. Example output:
 Enter file path: C:\path\to\file.txt  
 SHA256 Hash: d2a5f2f59f...  
-About
+
+#About
 This project showcases essential application security skills, emphasizing cryptographic validation of files using hashing.
 
-License
+#License
 Open-source under the MIT License.
 
-Copy this exact text into your README file on GitHub, and it should display correctly. Markdown relies on proper spacing, headers (indicated by `#`), and code blocks (indicated by triple backticks ```). Let me know if you still face issues!
+
